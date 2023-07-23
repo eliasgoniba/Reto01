@@ -1,0 +1,83 @@
+
+
+header{
+    height: 350px;
+    background: #303F9F;
+}
+
+.logoPrincipalfinal{
+width: 300px;
+margin-left: 1px;
+margin-top: -33px;
+margin-bottom: -53px;
+text-decoration: none;
+}
+.textoAbajo{
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 25px;
+    margin-left: 2px;
+    
+}
+
+.logosNav{
+width: 30px;
+margin-top: -10px;
+margin-left: 10px;
+padding:2px;
+text-align: center;
+}
+nav ul{
+text-align: center;
+}
+
+nav ul li {
+display: inline-block;
+}
+
+body{
+font-family: 'Roboto', sans-serif;
+color: #212121;
+font-weight: 400;
+font-size: 15px;
+background: #303F9F;
+text-align: center;
+}
+ol{
+    list-style-type: none;
+}
+div nav ol li p {
+height: 13px;
+text-align: center;
+margin-top: 42px
+}
+
+
+/*
+.botonera{
+list-style-type: none;
+text-decoration: none;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+}*/
+.boton{
+font-family: 'Roboto', sans-serif;
+color: #212121;
+text-transform: capitalize;
+text-decoration: none;
+background-color:#0288D1;
+border: solid 2px #BDBDBD;
+padding: 10px;
+border-radius: 3px;
+box-shadow: -5px 2px rgba(1,1,1,0.8);
+}
+
+/*
+.boton{
+color: white;
+font-size: 14px;
+text-decoration: none;
+border-radius: 2px;
+border: solid 0.5px #4CAF50;
+}*/
