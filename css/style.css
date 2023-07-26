@@ -1,25 +1,32 @@
 
-.container{
-    background: #303f9f;
 }
 header{
-    height: 350px;
+    height: 150px;
     background: #303F9F;
 }
-
 .logoPrincipalfinal{
 width: 300px;
-margin-left: 10px;
-margin-top: -33px;
+ margin-left: -15 px; 
+ margin-top: -43px;
+ margin-right: -25px;
 margin-bottom: -53px;
-text-decoration: none;
+text-align: center;
 }
-.textoAbajo{
+a{ color: #BDBDBD
+
+}
+
+h5{
+    padding: 10px;
     text-align: center;
-    margin-top: 1px;
-    margin-bottom: 25px;
-    margin-left: 12px;
-    margin-right: 5px;
+    margin-left: 40px;
+    margin-top: 1px
+   ;
+}
+
+
+.medio{
+    height: 230px;
 }
 
 .logosNav{
@@ -31,7 +38,9 @@ padding:2px;
 text-align: center;
 }
 section{
-    min-height: 50vh;
+    height: 300px;
+    
+
 }
 nav ul{
 text-align: center;
@@ -40,8 +49,14 @@ text-align: center;
 nav ul li {
 display: inline-block;
 }
+
+
 p{
-margin-top: -40px;
+margin-top: -200px;
+font-weight: 400;
+font-size: 15px;
+text-align: center;
+padding: 20px;
 }
 body{
 font-family: 'Roboto', sans-serif;
@@ -49,25 +64,23 @@ color: #212121;
 font-weight: 400;
 font-size: 15px;
 text-align: center;
+background: #303F9F;
 }
+
+.ultimo{
+height: 50px;
+}
+
 ol{
     list-style-type: none;
 }
 div nav ol li p {
 height: 13px;
 text-align: center;
-margin-top: 42px
+margin-top: 17px
 }
 
 
-/*
-.botonera{
-list-style-type: none;
-text-decoration: none;
-text-align: center;
-font-family: 'Roboto', sans-serif;
-text-transform: uppercase;
-}*/
 .boton{
 font-family: 'Roboto', sans-serif;
 color: #212121;
@@ -78,16 +91,10 @@ border: solid 2px #BDBDBD;
 padding: 10px;
 border-radius: 3px;
 box-shadow: -5px 2px rgba(1,1,1,0.8);
+width: 5px;
+margin-bottom: 15px;
 }
 
-/*
-.boton{
-color: white;
-font-size: 14px;
-text-decoration: none;
-border-radius: 2px;
-border: solid 0.5px #4CAF50;
-}*/
 
 footer{
 background: #BDBDBD;
@@ -95,7 +102,7 @@ height: 25px;
 font-family: 'Roboto', sans-serif;
 font-size: 10px;
 text-align: center;
-margin-top: 32px;
+margin-top: 200px;
 margin-bottom: 10px;
 padding: 5px;
 }
